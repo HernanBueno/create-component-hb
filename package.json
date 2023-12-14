@@ -1,0 +1,19 @@
+{
+  "name": "create-component-hb",
+  "version": "1.0.7",
+  "description": "Create NextJS Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "create-component": "create-component"
+  },
+  "bin": {
+    "create-component": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
